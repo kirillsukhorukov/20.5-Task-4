@@ -1,0 +1,41 @@
+Check sum before: 1469400 Check sum after: 1469400
+Check sum before: 1469400 Check sum after: 1469400
+Check sum before: 1469400 Check sum after: 1469400
+Check sum before: 1469400 Check sum after: 1469400
+Check sum before: 1469400 Check sum after: 1469400
+Check sum before: 1469400 Check sum after: 1469400
+Check sum before: 1469400 Check sum after: 1467600
+Check sum before: 1467600 Check sum after: 1467600
+Check sum before: 1467600 Check sum after: 67700
+Check sum before: 67700 Check sum after: 1501200
+Check sum before: 1501200 Check sum after: 1500100
+Check sum before: 1500100 Check sum after: 1502600
+Check sum before: 1502600 Check sum after: 1500000
+Check sum before: 1500000 Check sum after: 2000
+Check sum before: 2000 Check sum after: 1460300
+Check sum before: 1460300 Check sum after: 1400000
+Check sum before: 1400000 Check sum after: 1395500
+Check sum before: 1395500 Check sum after: 1387700
+Check sum before: 1387700 Check sum after: 2000
+Check sum before: 2000 Check sum after: 1423700
+Check sum before: 1423700 Check sum after: 1419100
+Check sum before: 1419100 Check sum after: 1432900
+Check sum before: 1432900 Check sum after: 1431300
+Operation: + Check sum before: 1431300 Check sum after: 1437000
+Operation: + Check sum before: 1437000 Check sum after: 1437000
+Operation: - Check sum before: 1437000 Check sum after: 1437000
+Operation: - Check sum before: 1437000 Check sum after: 647000
+Operation: - Check sum before: 647000 Check sum after: 7000
+Operation: - Check sum before: 7000 Check sum after: 7000
+Operation: - Check sum before: 7000 Check sum after: 7000
+Operation: - Check sum before: 7000 Check sum after: 2000
+Operation: - Check sum before: 2000 Check sum after: 2000
+Operation: - Check sum before: 2000 Check sum after: 2000
+Operation: - Check sum before: 2000 Check sum after: 2000
+Operation: - Check sum before: 2000 Check sum after: 0
+Operation: + Check sum before: 0 Check sum after: 1489900
+Operation: - Check sum before: 1489900 Check sum after: 1433600
+Operation: -	Check sum before: 1433600	Check sum after: 1428000	The amount has changed to: -5600
+Operation: -	Check sum before: 1428000	Check sum after: 1349000	The amount has changed to: -79000
+Operation: -	Check sum before: 1349000	Check sum after: 785900		The amount has changed to: -563100
+Operation: +	Check sum before: 785900	Check sum after: 1474800	The amount has changed to: 688900
